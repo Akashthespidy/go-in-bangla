@@ -26,7 +26,7 @@ export default function AboutPage() {
           </h1>
 
           <p style={{ fontSize: '1.05rem', color: 'var(--text-secondary)', lineHeight: '1.8', marginBottom: '1.5rem' }}>
-            আমি <strong style={{ color: 'var(--text-primary)' }}>Ahmed Akash</strong> — একজন software developer।
+            আমি <strong style={{ color: 'var(--text-primary)' }}>Billal Ahmed Akash</strong> — একজন software developer।
             আমি Go programming language শিখছি এবং সেই journey-কে বাংলায় document করছি।
           </p>
 
@@ -75,7 +75,7 @@ export default function AboutPage() {
 
           <div style={{ display: 'flex', gap: '0.75rem', flexWrap: 'wrap' }}>
             <a
-              href="https://github.com/ahmedakash"
+              href="https://github.com/Akashthespidy"
               target="_blank"
               rel="noopener noreferrer"
               style={{
